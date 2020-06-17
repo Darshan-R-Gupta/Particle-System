@@ -2,4 +2,4 @@
 * text=auto
 *.java linguist-detectable = false
 *.processing linguist-detectable = true
-*.HTML linguist-detectable = false;
+*.HTML linguist-detectable = false
